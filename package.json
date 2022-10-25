@@ -1,0 +1,19 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "metaverse web 3.0 javascript assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamididrees/Javascript-Exercises.git"
+  },
+  "author": "Hamid Idrees",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamididrees/Javascript-Exercises/issues"
+  },
+  "homepage": "https://github.com/hamididrees/Javascript-Exercises#readme"
+}
